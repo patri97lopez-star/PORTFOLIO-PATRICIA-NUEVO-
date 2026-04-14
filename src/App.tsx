@@ -399,7 +399,7 @@ export default function App() {
             </h1>
             <div className="mt-12 max-w-2xl">
               <p className="font-headline text-2xl md:text-3xl font-bold text-secondary uppercase tracking-tighter leading-tight">
-                Jurista & Especialista en IA
+                Jurista & Especialista en IA Hola
               </p>
               <p className="mt-4 text-lg md:text-xl text-primary/70 font-sans leading-relaxed tracking-wide">
                 Comprometida con la excelencia jurídica y la transformación digital. Navegando la intersección entre el derecho tradicional y la frontera tecnológica.
